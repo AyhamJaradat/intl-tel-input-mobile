@@ -1,48 +1,48 @@
 {
-  "_from": "intl-tel-input-mobile@1.0.1",
-  "_id": "intl-tel-input-mobile@1.0.1",
+  "_from": "intl-tel-input-mobile@1.0.2",
+  "_id": "intl-tel-input-mobile@1.0.2",
   "_inBundle": false,
   "_location": "/intl-tel-input",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "intl-tel-input@1.0.1",
+    "raw": "intl-tel-input@1.0.2",
     "name": "intl-tel-input",
     "escapedName": "intl-tel-input-mobile",
-    "rawSpec": "1.0.1",
+    "rawSpec": "1.0.2",
     "saveSpec": null,
-    "fetchSpec": "1.0.1"
+    "fetchSpec": "1.0.2"
   },
   "_requiredBy": [
     "/ng2-tel-input"
   ],
-  "_spec": "intl-tel-input-mobile@1.0.1",
+  "_spec": "intl-tel-input-mobile@1.0.2",
   "bundleDependencies": false,
   "deprecated": false,
   "description": "A jQuery plugin for entering international telephone numbers for Ionic",
   "devDependencies": {
     "evenizer": "^0.1.17",
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.2",
     "grunt-bump": "^0.8.0",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-cssmin": "^2.2.1",
-    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.2",
     "grunt-contrib-jasmine": "^1.1.0",
     "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-uglify": "^2.1.0",
-    "grunt-contrib-watch": "^1.0.1",
-    "grunt-exec": "^1.0.1",
-    "grunt-replace": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.2",
+    "grunt-exec": "^1.0.2",
+    "grunt-replace": "^1.0.2",
     "grunt-responsive-images": "^1.10.1",
     "grunt-sass": "^2.0.0",
     "grunt-shell": "^2.1.0",
     "grunt-spritesmith": "^6.4.0",
-    "grunt-template": "^1.0.1",
+    "grunt-template": "^1.0.2",
     "jasmine-jquery": "^2.1.1",
     "jquery": "^3.1.1",
     "load-grunt-config": "^0.19.2",
-    "region-flags": "^1.0.1",
+    "region-flags": "^1.0.2",
     "time-grunt": "^1.4.0"
   },
   "homepage": "https://github.com/MohamedMardona/intl-tel-input-mobile.git#readme",
@@ -74,5 +74,5 @@
     "test": "grunt travis",
     "watch": "grunt watch"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

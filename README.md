@@ -30,7 +30,11 @@ You can view a live demo and some examples of how to use the various options her
 * Retina flag icons
 * Lots of initialisation options for customisation, as well as public methods for interaction
 
+# Note
+  * this module used the following module as a reference
+    * #####  [intl-tel-input](https://www.npmjs.com/package/intl-tel-input)
 
+* modifying the style to meet the ionic mobile style
 
 
 ## Getting Started
