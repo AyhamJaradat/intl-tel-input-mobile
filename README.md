@@ -1,7 +1,6 @@
 
 ## Table of Contents
 
-- [Demo and Examples](#demo-and-examples)
 - [Features](#features)
 - [Browser Compatibility](#browser-compatibility)
 - [Getting Started](#getting-started)
@@ -16,8 +15,6 @@
 - [Attributions](#attributions)
 
 
-## Demo and Examples
-You can view a live demo and some examples of how to use the various options here: http://intl-tel-input.com, or try it for yourself using the included demo.html.
 
 
 ## Features
