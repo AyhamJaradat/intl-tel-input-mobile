@@ -1,7 +1,7 @@
 {
-  "name": "intl-tel-input-mobile",
-  "version": "1.0.3",
-  "description": "A jQuery plugin for entering international telephone numbers for ionic",
+  "name": "intl-tel-input",
+  "version": "12.4.0",
+  "description": "A jQuery plugin for entering international telephone numbers",
   "keywords": [
     "international",
     "i18n",
@@ -15,9 +15,17 @@
     "input",
     "flag"
   ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://raw.github.com/jackocnr/intl-tel-input/master/LICENSE"
+  }],
+  "author": {
+    "name": "Jack O'Connor",
+    "url": "http://jackocnr.com"
+  },
   "dependencies": {
     "jquery": ">=1.7"
   },
-  "demo": "https://github.com/MohamedMardona/intl-tel-input-mobile.git",
+  "demo": "http://jackocnr.com/intl-tel-input.html",
   "title": "International Telephone Input"
 }
